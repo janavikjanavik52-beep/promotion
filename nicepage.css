@@ -46079,7 +46079,7 @@ a.u-link.u-text-hover-color-var:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: none;
+  filter: none;
 }
 
 .u-header .u-sheet-1 {
